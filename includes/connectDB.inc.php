@@ -8,8 +8,8 @@ class Database {
     private function __construct() {
         $host = 'mysql-nazrin713.alwaysdata.net';
         $dbname = 'nazrin713_driving_experience_db_2025';
-        $user = 'nazrin713_d';
-        $pass = 'drivExp2025';
+        $user = 'YOUR_DATABASE_USERNAME_HERE';   
+        $pass = 'YOUR_DATABASE_PASSWORD_HERE';    
         
         try {
             $this->pdo = new PDO(
