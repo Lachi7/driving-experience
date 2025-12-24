@@ -7,11 +7,9 @@ A comprehensive web application for tracking and analyzing supervised driving se
 ![Bootstrap](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-3.7-0769AD?logo=jquery&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-4.0-FF6384?logo=chartdotjs&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📋 Table of Contents
 - [✨ Features](#-features)
-- [🌐 Live Demo](#-live-demo)
 - [🛠️ Technology Stack](#️-technology-stack)
 - [📁 Project Structure](#-project-structure)
 - [🚀 Installation Guide](#-installation-guide)
